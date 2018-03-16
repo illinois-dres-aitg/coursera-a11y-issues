@@ -1,2 +1,2 @@
-# Screen Shots Related to Video Player Accessibility
+# Screen Shots for Video Player Accessibility
 

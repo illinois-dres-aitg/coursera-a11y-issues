@@ -1,3 +1,3 @@
-# Screen Shots Related to Discussion Board Accessibility
+# Screen Shots for Discussion Board Accessibility
 
 

@@ -1,2 +1,2 @@
-# Screen Shots Related to Course Home Pages and Weeks
+# Screen Shots for Course Home Pages and Week Accessibility
 
