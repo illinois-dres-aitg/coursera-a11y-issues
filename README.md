@@ -27,7 +27,13 @@ Accessibility issues related to coursera
 
 ## Task Impact
 
+* Low
+* Meidum
+* High
+
 ## Time Impact
 
+* Frequent
+* Infrequent
 
 </pre>
