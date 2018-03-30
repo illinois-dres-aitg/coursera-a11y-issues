@@ -17,7 +17,17 @@ Accessibility issues related to coursera
 
 ## Browser
 
-## Screen Reader
+* Chrome
+* Firefox
+* Safari
+* IE
+
+## Screen Reader (optional)
+
+* JAWS
+* VoiceOver
+* Zoomtext
+* NVDA
 
 ## WCAG 2.0 Requirement
 
