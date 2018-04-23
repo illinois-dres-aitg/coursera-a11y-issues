@@ -3,7 +3,7 @@ Accessibility issues related to coursera
 
 ## Important links
 
-[Google of List Accessibility Issue](https://docs.google.com/spreadsheets/d/19R3eBPa2B-Tqpu133HmlM-ev3WeWtmGE4DYrMSA73VM/edit#gid=0)
+[Google of List Accessibility Issues](https://docs.google.com/spreadsheets/d/19R3eBPa2B-Tqpu133HmlM-ev3WeWtmGE4DYrMSA73VM/edit#gid=0)
 
 [Form For Sumitting Issues to Coursera](https://docs.google.com/forms/d/e/1FAIpQLSfk4fVgeEEdXVzDl5J9bD3u_3pofDy85AAAAaQX9Sv35GZ6JA/viewform)
 
