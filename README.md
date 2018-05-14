@@ -12,7 +12,7 @@ Accessibility issues related to coursera
 <pre>
 
 ## Coursera Ticket ID
-**assigned by Coursera**
+<em>assigned by Coursera</em>
 
 ## Summary
 
